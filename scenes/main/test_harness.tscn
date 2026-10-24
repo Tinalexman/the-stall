@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c8r3uqwtest01"]
+
+[ext_resource type="Script" path="res://scripts/core/test_system.gd" id="1_test"]
+
+[node name="TestHarness" type="Node"]
+script = ExtResource("1_test")
